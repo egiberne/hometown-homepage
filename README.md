@@ -1,5 +1,5 @@
-# 2025 My Hometown Homepage
-** Built a homepage about a hometown **
+# Hometown Homepage
+** Homepage about a hometown **
 
 ##  Features
 - [x] Included **Google Fonts** for improved typography
