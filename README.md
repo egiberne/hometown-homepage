@@ -1,5 +1,5 @@
 # Hometown Homepage
-** Homepage about a hometown **
+_Homepage about a hometown_
 
 ##  Features
 - [x] Included **Google Fonts** for improved typography
