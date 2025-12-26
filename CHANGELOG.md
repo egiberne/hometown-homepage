@@ -6,7 +6,7 @@ See all notable changes to this project documented in this file. The log of my #
 
 - Customize the details with my real hometown
 
-## [0.0.1] - 2025-10-26
+## [0.0.2] - 2025-10-26
 
 ### Added 
 - Keep working on a Hometown Homepage. Worked on the draft layout of the page, struggled with CSS margin between my hero section and main section.
