@@ -1,17 +1,28 @@
-# #100DaysOfCode Log - Round 1 - [Emerick Giberne]
+# Changelog
 
-The log of my #100DaysOfCode challenge. Started on [October 25, Saturday, 2020].
+See all notable changes to this project documented in this file. The log of my #100DaysOfCode challenge.
 
-## Log
+## [Unreleased]
 
-<!-->
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
--->
+- Customize the details with my real hometown
 
-### R1D1
-Started a Hometown Homepage. Worked on the draft layout of the page, struggled with CSS margin between my hero section and main section.
+## [0.0.1] - 2025-10-26
+
+### Added 
+- Keep working on a Hometown Homepage. Worked on the draft layout of the page, struggled with CSS margin between my hero section and main section.
+
+## [0.0.1] - 2025-10-25
+
+### Added
+
+- Started a Hometown Homepage. Worked on the draft layout of the page, struggled with CSS margin between my hero section and main section.
 
 
-### R1D2
-Keep working on a Hometown Homepage. Worked on the draft layout of the page, struggled with CSS margin between my hero section and main section.
+### Changed
+
+- Update the width of the sections
+
+### Deprecated
+### Removed
+### Fixed
+### Secured
